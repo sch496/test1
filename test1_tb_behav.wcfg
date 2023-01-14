@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test1_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test1_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="135,884.359 ns"></ZoomStartTime>
+      <ZoomEndTime time="135,909.548 ns"></ZoomEndTime>
+      <Cursor1Time time="135,916.854 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="206"></NameColumnWidth>
+      <ValueColumnWidth column_width="145"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject type="logic" fp_name="/test1_tb/CLK_1">
+      <obj_property name="ElementShortName">CLK_1</obj_property>
+      <obj_property name="ObjectShortName">CLK_1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/CLK_2">
+      <obj_property name="ElementShortName">CLK_2</obj_property>
+      <obj_property name="ObjectShortName">CLK_2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/A">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test1_tb/Value">
+      <obj_property name="ElementShortName">Value[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Value[11:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/Valid">
+      <obj_property name="ElementShortName">Valid</obj_property>
+      <obj_property name="ObjectShortName">Valid</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test1_tb/PERIODA">
+      <obj_property name="ElementShortName">PERIODA</obj_property>
+      <obj_property name="ObjectShortName">PERIODA</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test1_tb/PERIOD1">
+      <obj_property name="ElementShortName">PERIOD1</obj_property>
+      <obj_property name="ObjectShortName">PERIOD1</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test1_tb/PERIOD2">
+      <obj_property name="ElementShortName">PERIOD2</obj_property>
+      <obj_property name="ObjectShortName">PERIOD2</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider73" type="divider">
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/clk1">
+      <obj_property name="ElementShortName">clk1</obj_property>
+      <obj_property name="ObjectShortName">clk1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/clk2">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/A">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/A_reg">
+      <obj_property name="ElementShortName">A_reg</obj_property>
+      <obj_property name="ObjectShortName">A_reg</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test1_tb/uut/value">
+      <obj_property name="ElementShortName">value[11:0]</obj_property>
+      <obj_property name="ObjectShortName">value[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/valid">
+      <obj_property name="ElementShortName">valid</obj_property>
+      <obj_property name="ObjectShortName">valid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test1_tb/uut/Valid_reg">
+      <obj_property name="ElementShortName">Valid_reg[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Valid_reg[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test1_tb/uut/Value_clk1">
+      <obj_property name="ElementShortName">Value_clk1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Value_clk1[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test1_tb/uut/Valid_src">
+      <obj_property name="ElementShortName">Valid_src</obj_property>
+      <obj_property name="ObjectShortName">Valid_src</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/test1_tb/uut/OUT_PERIOD">
+      <obj_property name="ElementShortName">OUT_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">OUT_PERIOD</obj_property>
+   </wvobject>
+</wave_config>
